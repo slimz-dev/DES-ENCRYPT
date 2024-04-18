@@ -1,0 +1,3 @@
+D:\Workspace\cpp\cryptography\cryptography\Debug\cryptography.vcxproj.AssemblyReference.cache
+D:\Workspace\cpp\cryptography\cryptography\Debug\cryptography.MyForm.resources
+D:\Workspace\cpp\cryptography\cryptography\Debug\cryptography.vcxproj.GenerateResource.cache

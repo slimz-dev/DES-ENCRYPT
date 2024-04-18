@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+D:\Workspace\cpp\cryptography\MyForm.h(88,47): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\Workspace\cpp\cryptography\MyForm.h(251,41): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\Workspace\cpp\cryptography\MyForm.h(251,37): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  cryptography.vcxproj -> D:\Workspace\cpp\cryptography\Debug\cryptography.exe

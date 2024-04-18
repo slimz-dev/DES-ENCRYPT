@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+D:\Workspace\cpp\cryptography\MyForm.cpp(8,2): error C2653: 'ProjectName': is not a class or namespace name
+D:\Workspace\cpp\cryptography\MyForm.cpp(8,15): error C2065: 'MyForm': undeclared identifier
+D:\Workspace\cpp\cryptography\MyForm.cpp(8,22): error C2146: syntax error: missing ';' before identifier 'form'
+D:\Workspace\cpp\cryptography\MyForm.cpp(8,22): error C2065: 'form': undeclared identifier
+D:\Workspace\cpp\cryptography\MyForm.cpp(9,21): error C2065: 'form': undeclared identifier
+  Generating Code...
